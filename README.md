@@ -25,4 +25,4 @@
 | Topic                     | Resources |
 |----------------------------|-----------|
 | Machine Learning           | - [Fundamentals](https://github.com/adosar/intro2ml) |
-| Deep Learning (PyTorch)    | - [Deep Learning for Computer Vision (CS231n)](https://cs231n.github.io/)<br>- [Deep Learning and Point Clouds](http://stanford.edu/~rqi/pointnet/docs/cvpr17_pointnet_slides.pdf) |
+| Deep Learning              | - [Deep Learning for Computer Vision (CS231n)](https://cs231n.github.io/)<br>- [Deep Learning and Point Clouds](http://stanford.edu/~rqi/pointnet/docs/cvpr17_pointnet_slides.pdf) |
